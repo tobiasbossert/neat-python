@@ -1,4 +1,5 @@
 .coveralls.yml
+build/
 docs/_build/**
 _build/**
 cover
@@ -13,3 +14,4 @@ species_fitness.csv
 *.pyo
 __pycache__/
 *stats*.dat*
+neat_python.egg-info
